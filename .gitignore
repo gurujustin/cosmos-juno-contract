@@ -1,0 +1,6 @@
+buildcontract.sh
+/target
+/release
+**/*.rs.bk
+*.iml
+.idea
